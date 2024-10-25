@@ -21,7 +21,7 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/drone/drone-ui/dist"
+	"github.com/DayMarket/drone-ui/dist"
 	"github.com/drone/drone/core"
 )
 
